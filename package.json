@@ -1,0 +1,19 @@
+{
+  "name": "puzzler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acetza/puzzler.git"
+  },
+  "author": "Acetza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acetza/puzzler/issues"
+  },
+  "homepage": "https://github.com/acetza/puzzler#readme"
+}
